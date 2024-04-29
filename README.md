@@ -2,7 +2,7 @@
 
 
 
-###The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
+### The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.
 
 1. How do sales vary by day of the week and hour of the day? ```The sales is usually higher in the morning and gradually decreases overtime, the sales happen most during weekdays especially Monday.```
 3. Are there any peak times for sales activity? ```The peak times for sales are 7 am to 10am for sales acitivity.```
